@@ -35,7 +35,7 @@ streamlit run Deployment/app.py
 text
 
 ---
-
+```
 ## Project Structure
 
 Smart-Garbage-Segregation/
@@ -57,7 +57,7 @@ Smart-Garbage-Segregation/
 text
 
 ---
-
+```
 ## How to Use
 
 1. **Clone the repository**
@@ -77,8 +77,6 @@ text
     streamlit run app.py
     ```
 
-4. **Upload an image** of waste from your device and see the predicted class instantly.
-
 ---
 
 ## Model Training
@@ -93,7 +91,7 @@ text
 ## Results
 
 - Achieves strong performance on test images.
-- Typical accuracy: _[insert your accuracy here]_.
+- Typical accuracy: 70%
 - Handles real-world confusion between similar categories (e.g., paper vs cardboard).
 
 ---
