@@ -25,6 +25,8 @@ This project is aimed at automating waste segregation using artificial intellige
 <img width="526" height="927" alt="image" src="https://github.com/user-attachments/assets/3e9a65db-ee3a-40f4-9226-65c9f8f6bf71" />
 <img width="858" height="636" alt="Screenshot 2025-09-07 093711" src="https://github.com/user-attachments/assets/838e9abf-864d-4053-aede-c44febcd5af2" />
 <img width="859" height="738" alt="image" src="https://github.com/user-attachments/assets/ae63fdc2-1074-4bb8-a7dc-8baf6f607daf" />
+<img width="963" height="936" alt="Screenshot 2025-09-07 092355" src="https://github.com/user-attachments/assets/ab5fc874-3376-4afb-b616-4df39f70b7f3" />
+
 
 
 
@@ -101,6 +103,8 @@ text
 - Some classes (like paper and cardboard) may be visually similar and occasionally confused.
 - More training images can improve accuracy.
 - Future ideas: integrate with IoT hardware, real-time camera input, or deploy as a public web demo.
+  <img width="857" height="475" alt="image" src="https://github.com/user-attachments/assets/64e1a162-1274-4963-8294-8d19401b76f8" />
+
 
 ---
 
