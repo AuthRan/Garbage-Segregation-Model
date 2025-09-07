@@ -125,9 +125,5 @@ This project is licensed under the MIT License.
 
 ---
 
-*Built by Ashu, NIT Sikkim, 2025*
-Tips:
+*Built by Team Roboinators, NIT Sikkim, 2025*
 
-Add a screenshot or GIF of your Streamlit app for even more impact.
-
-Fill in your actual accuracy and any custom improvements you made.
